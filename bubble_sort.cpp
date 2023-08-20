@@ -1,6 +1,8 @@
 //we are under the main branch
-#include <bits/stdc++.h>
+#include <bits/stdc++.h> 
 
+
+//This Algorithms is of the bubble sort 
 using namespace std;
 void bubble_sort(int arr[], int size)
 {
